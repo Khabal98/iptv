@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF :-1,A
+https://iptv-org.github.io/iptv/countries/ro.m3u
+#EXTINF :-2,B
+https://iptv-org.github.io/iptv/countries/ca.m3u
