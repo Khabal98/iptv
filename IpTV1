@@ -1,11 +1,3 @@
 #EXTM3U
-#EXTINF :-1,ROMANIA-
-https://iptv-org.github.io/iptv/countries/ro.m3u	
-#EXTINF :-2,Alte Tari
-#EXTINF :-3,Alte Categorii
-#EXTINF :-4,Filme
-#EXTINF :-5,Actiune
-#EXTINF :-6,Comedie
-#EXTINF :-7,Drama
-#EXTINF :-8,Horror
-#EXTINF :-9,Romantic
+#EXTINF :-1,
+https://raw.githubusercontent.com/Khabal98/iptv/main/IpTV1
